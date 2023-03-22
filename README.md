@@ -1,2 +1,2 @@
-# Immune-Up_Web-Development
-It is a web-based platform that allows users to make direct connections with nearby vaccination facilities and streamlines the process of making and keeping appointments at those facilities to receive vaccinations.
+# Immune-Up---Web-Development
+It is a web-based platform to connect users directly with nearby vaccination centres and facilitate the process of booking and scheduling an appointment with the vaccination centres to get vaccinated.
